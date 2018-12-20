@@ -9,3 +9,5 @@ maybe it is a metadata section
 maybe it is a variable description
 
 or all of the above
+
+making changes for exercise
